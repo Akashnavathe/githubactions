@@ -9,3 +9,4 @@ Shopping list
 8- Badham
 10- Beetroot
 11- Strawberry
+12- Almonds
