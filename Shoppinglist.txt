@@ -5,3 +5,7 @@ Shopping list
 4- Banana
 5- Papaya
 6- English Walnuts
+7- Kaju
+8- Badham
+9- Carrot
+10- Beetroot
